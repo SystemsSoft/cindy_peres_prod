@@ -38738,7 +38738,7 @@ $S:311}
 A.ad2.prototype={
 $0(){var s=0,r=A.P(t.H),q
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
-for(;;)switch(s){case 0:q=A.dp("https://wa.me/5511999999999?text=Ol\xe1%20Cindy%2C%20gostaria%20de%20consultar%20voos%20e%20passagens!",0,null)
+for(;;)switch(s){case 0:q=A.dp("https://wa.me/351925954934",0,null)
 s=4
 return A.L(A.oW(q),$async$$0)
 case 4:s=b?2:3
